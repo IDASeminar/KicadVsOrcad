@@ -2079,7 +2079,7 @@
   (symbol (lib_id "Device:C_Small") (at 152.4 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0e9f942e-04a2-4967-a20f-0322f433a2b7)
-    (property "Reference" "C?" (id 0) (at 154.7241 28.3078 0)
+    (property "Reference" "C11" (id 0) (at 154.7241 28.3078 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (id 1) (at 154.7241 31.0829 0)
@@ -2689,7 +2689,7 @@
   (symbol (lib_id "Device:C_Small") (at 137.16 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8674a9ad-d287-480a-9b7e-298ec5791677)
-    (property "Reference" "C?" (id 0) (at 139.4841 28.3078 0)
+    (property "Reference" "C9" (id 0) (at 139.4841 28.3078 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (id 1) (at 139.4841 31.0829 0)
@@ -2810,7 +2810,7 @@
   (symbol (lib_id "Device:C_Small") (at 160.02 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a0c16cd7-a3f1-46d5-8625-1006ed98f1d6)
-    (property "Reference" "C?" (id 0) (at 162.3441 28.3078 0)
+    (property "Reference" "C12" (id 0) (at 162.3441 28.3078 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (id 1) (at 162.3441 31.0829 0)
@@ -2866,7 +2866,7 @@
   (symbol (lib_id "Device:C_Small") (at 144.78 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid acb5489d-7f48-415d-95ac-a67b3110aa0e)
-    (property "Reference" "C?" (id 0) (at 147.1041 28.3078 0)
+    (property "Reference" "C10" (id 0) (at 147.1041 28.3078 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (id 1) (at 147.1041 31.0829 0)
@@ -2885,7 +2885,7 @@
   (symbol (lib_id "Device:C_Small") (at 167.64 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b17def37-70d0-4433-8253-4a61b7eecee8)
-    (property "Reference" "C?" (id 0) (at 169.9641 28.3078 0)
+    (property "Reference" "C13" (id 0) (at 169.9641 28.3078 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (id 1) (at 169.9641 31.0829 0)
@@ -3172,7 +3172,7 @@
   (symbol (lib_id "Device:C_Small") (at 175.26 29.21 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ee219667-dd08-4087-878d-660b5160b21f)
-    (property "Reference" "C?" (id 0) (at 180.34 27.94 0)
+    (property "Reference" "C14" (id 0) (at 180.34 27.94 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (id 1) (at 180.34 30.48 0)
@@ -3333,23 +3333,23 @@
     (path "/108d9010-1707-45cd-81a1-868ef160cb3d"
       (reference "C8") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/0e9f942e-04a2-4967-a20f-0322f433a2b7"
-      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
     (path "/8674a9ad-d287-480a-9b7e-298ec5791677"
-      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/a0c16cd7-a3f1-46d5-8625-1006ed98f1d6"
-      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C9") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/acb5489d-7f48-415d-95ac-a67b3110aa0e"
-      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C10") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/0e9f942e-04a2-4967-a20f-0322f433a2b7"
+      (reference "C11") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/a0c16cd7-a3f1-46d5-8625-1006ed98f1d6"
+      (reference "C12") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/b17def37-70d0-4433-8253-4a61b7eecee8"
-      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C13") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/ee219667-dd08-4087-878d-660b5160b21f"
-      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C14") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/c15641d3-3218-4ed3-b1f7-20e67018e0f9"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
