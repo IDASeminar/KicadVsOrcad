@@ -1,0 +1,29 @@
+Drill report for USBMIc.kicad_pcb
+Created on 30/03/2022 15:51:54
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'USBMIc-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (57 holes)
+    T2  0.550mm  0.0217"  (2 holes)  (with 2 slots)
+    T3  0.800mm  0.0315"  (4 holes)
+    T4  0.850mm  0.0335"  (2 holes)  (with 2 slots)
+
+    Total plated holes count 65
+
+
+Drill file 'USBMIc-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.750mm  0.0295"  (1 hole)
+    T2  0.800mm  0.0315"  (2 holes)
+
+    Total unplated holes count 3
