@@ -10,3 +10,4 @@ Agenda:
 
 Fordragsholder er Gert Lauritsen, der har arbejdet som udviklingsingeniør i mange år indenfor forskning og industri. Dette har været både på hardware og software.
 
+[Video](https://youtu.be/Q6-I2eaVBcE)
